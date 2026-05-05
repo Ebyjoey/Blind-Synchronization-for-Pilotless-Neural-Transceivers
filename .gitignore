@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pkl
+*.pt
+*.pth
+*.zip
+.env
+.DS_Store
