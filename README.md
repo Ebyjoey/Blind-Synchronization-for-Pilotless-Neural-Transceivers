@@ -2,7 +2,7 @@
 
 End-to-end deep learning based wireless communication system that performs **blind synchronization (CFO + STO) without pilots or prior channel knowledge**.
 
----
+--
 
 ## 📌 Overview
 
